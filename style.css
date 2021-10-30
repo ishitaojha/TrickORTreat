@@ -1,0 +1,71 @@
+* {
+        font-family: 'Georama', sans-serif;
+        margin: 0;
+        padding: 0;
+}
+
+body {
+        background-image: url(https://crispywolf94.qoom.space/TrickOrTreat/s.jpg);
+        background-size: cover;
+        background-position: cover;
+        background-repeat: no-repeat;
+        text-align: center;
+        overflow: hidden;
+        height: 100vh;
+}
+
+header {
+        text-align: center;
+        font-size: 50;
+        height: 20vh;
+        text-transform: uppercase;
+        font-family: inherit;
+        visibility: visible;
+        font-size: 100%;
+        color: orangered;
+        width: 100%;
+}
+
+nav {
+        background-color: rgb(197, 31, 1);
+}
+
+
+h1 {
+        margin: 30px;
+        text-decoration: none;
+        text-align: center;
+        font-size: 50px;
+}
+nav {
+        margin: 0%;
+        background-color: maroon;
+}
+li {
+        display: inline;
+}
+li a {
+        text-decoration: none;
+        text-align: center;
+        color: orangered;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-weight: 700;
+        padding: 15px;
+        font-size: 1.5em;
+        background-color: rgba(255, 255, 255, 0.02);
+        border-radius: 5px;
+}
+
+li a:hover {
+        background-color: rgb(197, 31, 1);
+}
+
+footer{
+        font-size:2vw;
+        color:rgb(206, 203, 203);
+        position: absolute;
+        bottom: 0;
+        width:100%;
+        text-align: center;
+        margin-bottom:10px;
+}
